@@ -1,0 +1,35 @@
+.call {
+  text-align: center;
+}
+
+.player-container {
+  padding: 20px;
+  text-align: initial;
+  margin: 20px;
+}
+
+.button-group {
+  padding: 20px;
+  margin: 0 20px;
+}
+
+.call-form {
+  padding: 20px;
+}
+
+input,
+button {
+  margin-right: 10px;
+}
+
+.remotePlayers {
+  display: flex;
+  border: solid blue 1px;
+  margin: 20px;
+}
+
+.remote-player-wrapper {
+  border: solid green 1px;
+  flex: 1;
+  margin: 10px;
+}
